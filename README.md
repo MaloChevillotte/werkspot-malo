@@ -5,4 +5,4 @@
 3. Run python load_data.py
 4. cd dbt-werkspot
 5. dbt deps
-6. dbt run
+6. dbt run --profiles-dir ./
