@@ -1,0 +1,6 @@
+name: 'dbt_werkspot'
+profile: 'werkspot'
+version: '1.0.0'
+config-version: 2
+
+profile: 'werkspot'

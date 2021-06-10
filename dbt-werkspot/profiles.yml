@@ -1,0 +1,12 @@
+werkspot:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: 127.0.0.1
+      user: postgres
+      password: password
+      port: 5432
+      dbname: werkspot
+      schema: public
+      threads: 1
